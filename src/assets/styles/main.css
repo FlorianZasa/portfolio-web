@@ -1,0 +1,9 @@
+:root {
+    --fg-text: #e7ecf1;
+    --secondary-fg: #b3bc07;
+  }
+
+
+h1, h2, h3, p, span, div{
+    color: var(--fg-text)
+}
