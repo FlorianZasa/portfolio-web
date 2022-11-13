@@ -7,11 +7,15 @@
       <div class="spacer"></div>
       
       <div class="subtitle-frame">
-        <h4>Hier steht ein langer Text drin.</h4>
+        <h4>2019 - März 2023</h4>
+        <p>Studium - Bachelor of Engineering - Telekommunikationsinformatik</p>
       </div>
       <div class="spacer"></div>
-  
-      
+      <div class="subtitle-frame">
+        <h4>2023 - heute</h4>
+        <p>Studium - Master of Science - Cyber Security</p>
+      </div>
+      <div class="spacer"></div>
     </div>
   </template>
   
