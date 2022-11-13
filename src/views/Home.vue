@@ -58,7 +58,7 @@ button {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  margin-top: 10%;
+  margin-top: 20px;
 }
 
 .spacer{

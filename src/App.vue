@@ -50,7 +50,6 @@
   display: flex;
   flex-direction: row;
   background: var(--dark-bg);
-  margin-bottom: 300px;
 }
 
 .nav a {
